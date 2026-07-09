@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [1920-build-array-from-permutation](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 ## String
 |  |
 | ------- |
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
