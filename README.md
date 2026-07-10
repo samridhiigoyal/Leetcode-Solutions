@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [1920-build-array-from-permutation](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
 | ------- |
@@ -53,4 +54,5 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
