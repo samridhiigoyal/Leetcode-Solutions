@@ -71,4 +71,5 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [2235-add-two-integers](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
