@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
@@ -31,6 +32,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0796-rotate-string) |
 ## Sorting
 |  |
@@ -72,4 +74,8 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/2235-add-two-integers) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
