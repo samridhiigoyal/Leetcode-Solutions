@@ -82,6 +82,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -90,4 +91,9 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
