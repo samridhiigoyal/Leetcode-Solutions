@@ -73,6 +73,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0412-fizz-buzz](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 ## Two Pointers
@@ -98,4 +99,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
