@@ -20,6 +20,7 @@
 | [0412-fizz-buzz](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Trie
 |  |
 | ------- |
@@ -103,4 +104,16 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0050-powx-n) |
+## Stack
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
