@@ -16,6 +16,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0301-remove-invalid-parentheses](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Tree
 |  |
 | ------- |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/samridhiigoyal/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
